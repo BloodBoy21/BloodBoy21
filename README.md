@@ -5,12 +5,14 @@
 
 ```js
 const Alan = {
-  quickBio:"Self-taught open source developer, hiphop head and berserk fan",
-  favLanguages: ["JS","Python","Go"],
-  workingOn: "Fulll stack dev at Artificial Nerds 🤖",
-  technologies: ["Linux","SQL","MongoDB","React","Vue","Express","Fastify","Node","Flask","Docker","Kubernetes","Terraform"],
+  quickBio: 'Self-taught open source developer, hiphop head and berserk fan',
+  favLanguages: ['JS', 'Python', 'Go'],
+  workingOn: 'Fulll stack dev at Artificial Nerds 🤖',
+  technologies: ['Linux', 'SQL', 'MongoDB', 'React', 'Vue', 'Express', 'Fastify', 'Node', 'Flask', 'Docker', 'Kubernetes',
+    'Terraform'],
   learning: "I'm currently fastapi"
 }
+
 ```
 
 <h3 align="center">Top langs 👾</h4>
