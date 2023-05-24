@@ -10,7 +10,7 @@ const Alan = {
   workingOn: 'Fulll stack dev at Artificial Nerds 🤖',
   technologies: ['Linux', 'SQL', 'MongoDB', 'React', 'Vue', 'Express', 'Fastify', 'Node', 'Flask', 'Docker', 
     'Kubernetes', 'Terraform'],
-  learning: "I'm currently fastapi"
+  learning: "I'm currently learning fastapi"
 }
 console.log({Alan})
 console.log('Code is my life')
