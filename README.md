@@ -1,4 +1,3 @@
-![image](https://c0.wallpaperflare.com/preview/524/860/912/screen-code-coding-programming.jpg)
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A passionate full-stack developer 🧩</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{bloodboy21}/count.svg" alt="BloodBoy21 :: Visitor's Count" /></p>
@@ -9,8 +8,8 @@ const Alan = {
   quickBio:"Self-taught open source developer, hiphop head and berserk fan",
   favLanguages: ["JS","Python","Go"],
   workingOn: "Fulll stack dev at Artificial Nerds 🤖",
-  technologies: ["Linux","SQL","MongoDB","React","Vue","Express","Fastify","Node","Flask","Docker","Kubernetes"],
-  learning: "I'm currently learning Nextjs"
+  technologies: ["Linux","SQL","MongoDB","React","Vue","Express","Fastify","Node","Flask","Docker","Kubernetes","Terraform"],
+  learning: "I'm currently fastapi"
 }
 ```
 
