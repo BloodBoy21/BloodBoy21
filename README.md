@@ -9,7 +9,7 @@ const Alan = {
   favLanguages: ['JS', 'Python', 'Go'],
   workingOn: 'Fulll stack dev at Artificial Nerds 🤖',
   technologies: ['Linux', 'SQL', 'MongoDB', 'React', 'Vue', 'Express', 'Fastify', 'Node', 'Flask', 'Docker', 
-  'Kubernetes', 'Terraform'],
+    'Kubernetes', 'Terraform'],
   learning: "I'm currently fastapi"
 }
 console.log({Alan})
