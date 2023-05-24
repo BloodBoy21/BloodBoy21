@@ -8,11 +8,12 @@ const Alan = {
   quickBio: 'Self-taught open source developer, hiphop head and berserk fan',
   favLanguages: ['JS', 'Python', 'Go'],
   workingOn: 'Fulll stack dev at Artificial Nerds 🤖',
-  technologies: ['Linux', 'SQL', 'MongoDB', 'React', 'Vue', 'Express', 'Fastify', 'Node', 'Flask', 'Docker', 'Kubernetes',
-    'Terraform'],
+  technologies: ['Linux', 'SQL', 'MongoDB', 'React', 'Vue', 'Express', 'Fastify', 'Node', 'Flask', 'Docker', 
+  'Kubernetes', 'Terraform'],
   learning: "I'm currently fastapi"
 }
-
+console.log({Alan})
+console.log('Code is my life')
 ```
 
 <h3 align="center">Top langs 👾</h4>
