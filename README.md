@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A senior Backend 🧩</h3>
+<h3 align="center">A Backend/DevOps 🧩</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{bloodboy21}/count.svg" alt="BloodBoy21 :: Visitor's Count" /></p>
 <h3 align="center">About me</h3>
 
@@ -9,7 +9,7 @@ const Alan = {
   favLanguages: ['JS', 'Python', 'Go'],
   workingOn: 'Fulll stack dev at Artificial Nerds 🤖',
   technologies: ['Linux', 'SQL', 'MongoDB', 'React', 'Vue', 'Express', 'Fastify', 'Node', 'Flask', 'Docker', 
-    'Kubernetes', 'Terraform'],
+    'Kubernetes', 'Terraform','AWS','GCP'],
   learning: "I'm currently learning fastapi"
 }
 console.log({Alan})
