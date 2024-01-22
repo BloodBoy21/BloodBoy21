@@ -3,7 +3,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{bloodboy21}/count.svg" alt="BloodBoy21 :: Visitor's Count" /></p>
 <h3 align="center">About me</h3>
 
-<div style="display:flex"
+<div style="display:flex">
 
 ```js
 const Alan = {
