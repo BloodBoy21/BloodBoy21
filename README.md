@@ -16,6 +16,8 @@ console.log({Alan})
 console.log('Code is my life')
 ```
 
+<a href="https://app.daily.dev/bloodboy21"><img src="https://api.daily.dev/devcards/8d002270b92945f6a4a15432725c6a7c.png?r=51x" width="400" alt="Alan's Dev Card"/></a>
+
 <h3 align="center">Top langs 👾</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodboy21&langs_count=10&theme=tokyonight&layout=compact" alt="BloodBoy21 :: Top Langs" /></p>
