@@ -9,10 +9,9 @@
 const Alan = {
   quickBio: 'Self-taught open source developer, hiphop head and berserk fan',
   favLanguages: ['JS', 'Python', 'Go'],
-  workingOn: 'Fulll stack dev at Artificial Nerds 🤖',
+  workingOn: 'Cloud engineer at Artificial Nerds 🤖',
   technologies: ['Linux', 'SQL', 'MongoDB', 'React', 'Vue', 'Express', 'Fastify', 'Node', 'Flask', 'Docker', 
-    'Kubernetes', 'Terraform','AWS','GCP'],
-  learning: "I'm currently learning fastapi"
+    'Kubernetes', 'Terraform','AWS','GCP',"Go"]
 }
 console.log({Alan})
 console.log('Code is my life')
